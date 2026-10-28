@@ -1,0 +1,21 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.kicad_pcb.bak
+*.kicad_sch.bak
+*.kicad_pro.bak
+fp-info-cache
+~*.lck
+*.lck
+_autosave-*
+*-save.kicad_pcb
+*.net
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

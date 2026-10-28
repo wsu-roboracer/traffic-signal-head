@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","LCSC"
+"D1-D12","KT-0805R","LED_SMD:LED_0805_2012Metric","C2295"
+"D13-D24","KT-0805Y","LED_SMD:LED_0805_2012Metric","C2296"
+"D25-D36","KT-0805G","LED_SMD:LED_0805_2012Metric","C2297"
+"H1-H4","M2","MountingHole:MountingHole_2.2mm_M2",""
+"J1","Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"R1-R24","390","Resistor_SMD:R_0805_2012Metric",""
+"R25-R36","330","Resistor_SMD:R_0805_2012Metric",""
